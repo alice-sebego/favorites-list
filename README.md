@@ -1,5 +1,7 @@
 # favorites-list
  Create your own favorites list
+ 
+ ![alt tag](https://user-images.githubusercontent.com/45878834/96896369-b5ebb600-148d-11eb-8369-f15f0d265139.JPG)
 
 ## What is this ?
 It's a mini front-end project which work native Javascript : here, we can build our own list with. 
