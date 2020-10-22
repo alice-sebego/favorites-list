@@ -1,0 +1,36 @@
+header{
+    text-align : center;
+    background-color : rgb(12, 131, 125);
+    padding : 0.5em 0;
+    margin-bottom: 1.5em;
+    box-shadow : 2px 2px 2px 1px rgba(184, 196, 195, 0.3);
+}
+
+#logo, header{
+    color : white;
+}
+
+#container{
+    padding : 1em 0.5em;
+    width : 70%;
+    margin : auto;
+}
+
+.btn-primary, 
+.btn-primary:visited{
+    background-color: rgb(12, 131, 125);
+    border : none;   
+}
+
+.btn-primary:hover, 
+.btn-primary:active,
+.btn-primary:focus,
+.btn-outline-secondary:hover{
+    background-color: rgb(11, 112, 107);
+    color: white;
+}
+
+.green-text{
+    color: rgb(12, 131, 125);
+    font-weight: 500;
+}
